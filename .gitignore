@@ -98,3 +98,5 @@ src/*
 
 #project
 js/*
+target
+/target
